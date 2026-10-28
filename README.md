@@ -35,30 +35,6 @@ I am a results-driven **Software Engineer** with **3+ years of professional expe
 
 ```
 
----
-
-## 📊 Proven Impact (Key Projects)
-
-### **1. Adology AI — Enterprise Marketing Dashboard**
-
-* Built the scalable frontend architecture using **React.js & Next.js** to handle complex, data-heavy dashboard UI states.
-* Implemented **TanStack Query** for smart client-side caching and state synchronization, **reducing redundant API payloads by 60%**.
-* Developed fluid, responsive data visualization components to display real-time marketing metrics seamlessly.
-
-### **2. EMS — Enterprise Employee Management System**
-
-* Architected a secure, full-stack **MERN** application designed to streamline internal company operations, user access, and task flows.
-* Built the backend with **Node.js, Express, and MongoDB**, implementing robust JWT-based authentication and Role-Based Access Control (RBAC).
-* Designed an interactive React-based admin panel featuring real-time employee tracking, performance reviews, and dynamic reporting.
-
-### **3. Social Media AI Post Scheduler — Smart Automation Tool**
-
-* Designed and built a SaaS utility that allows users to write, schedule, and automatically publish social media content.
-* Integrated **AI-driven features** to automatically generate post copy, hashtags, and optimal posting times based on prompt inputs.
-* Engineered a robust cron-job queuing system in **Node.js** paired with a structured **MongoDB** database to handle timezone-aware scheduling queues flawlessly.
-
----
-
 ## 🌍 Open To
 
 * 💻 **Remote / International Opportunities**
